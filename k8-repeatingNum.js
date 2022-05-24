@@ -12,14 +12,14 @@ const repeatNumbers = function (data) {
   return result.toString();
 };
 
-console.log(repeatNumbers([[1, 10]]));
+console.log(repeatNumbers([[1, 10]])); //1111111111
 
 console.log(
   repeatNumbers([
     [1, 2],
     [2, 3],
   ])
-);
+); //11, 222
 
 console.log(
   repeatNumbers([
@@ -27,4 +27,4 @@ console.log(
     [34, 6],
     [92, 2],
   ])
-);
+); //10101010, 343434343434, 9292
