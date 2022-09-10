@@ -1,3 +1,7 @@
-### Pratice problem-solving skills, develop more strategic ways of thinking using Javascript
+<div align="center">
 
-![memes](https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
+![memes](https://miro.medium.com/max/1290/0*s2ivt9cecdqsXvts.gif)
+
+Pratice problem-solving skills, develop more strategic ways of thinking using Javascript
+
+<div/>
